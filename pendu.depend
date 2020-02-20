@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1578480968 source:c:\users\hadri\onedrive\documents\curses\c\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	"sudoku.h"
+
+1577476126 c:\users\hadri\onedrive\documents\curses\c\pendu\pendu.h
+
+1578481032 c:\users\hadri\onedrive\documents\curses\c\pendu\sudoku.h
+
